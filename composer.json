@@ -1,0 +1,10 @@
+{
+    "name": "gitpod/gitpod-mysql",
+    "authors": [
+        {
+            "name": "Jan Keromnes",
+            "email": "jan.keromnes@typefox.io"
+        }
+    ],
+    "require": {}
+}
